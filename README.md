@@ -65,5 +65,6 @@ Ongoing work focuses on continued system integration and preparation for percept
 
 ---
 
-*Author: Percival Segui*\
+*Author: Percival Segui*
+
 *Independent engineering project record*
