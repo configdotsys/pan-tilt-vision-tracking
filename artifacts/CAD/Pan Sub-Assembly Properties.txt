@@ -703,39 +703,6 @@ At -110 degrees global from horizontal (positive x-axis):
 
 Part Name	Pan Assembly
 Part Number	2025-12-11-22-19-48-192
-General-0
-	Description	
-	Material Name	(Various)
-Manage-1
-	Item Number	
-	Lifecycle	
-	Revision	
-	State	Working
-	Change Order	
-Component-2
-	Category	null
-	Estimated Cost	null
-	Manufacturer	null
-	Manufacturer Part Number	null
-	Note 1	null
-	Note 2	null
-	Note 3	null
-	Package Type	null
-	Stock Number	null
-	Unit of Measure	null
-	Vendor	null
-Project-3
-	Authority	null
-	Cost Center	null
-	Designer	null
-	Engineer	null
-	Product Line	null
-	Project	null
-Summary-4
-	Author	null
-	Company	null
-	Keywords	null
-	Manager	null
 Physical-5
 	Mass	117.602 g
 	Volume	52853.329 mm^3
