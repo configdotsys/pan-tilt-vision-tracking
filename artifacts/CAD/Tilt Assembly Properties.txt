@@ -1,0 +1,33 @@
+Part Name	Tilt Assembly v2
+Part Number	2025-12-11-21-29-26-977
+Physical-5
+	Mass	31.487 g
+	Volume	11369.819 mm^3
+	Density	0.003 g / mm^3
+	Area	13662.389 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	30.365 mm, 0.25 mm, 32.053 mm
+	Bounding Box-0
+		Length	78.5 mm
+		Width	25.55 mm
+		Height	59.8 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	18393.425
+		ixy	-223.827
+		ixz	2775.509
+		iyx	-223.827
+		iyy	31822.832
+		iyz	22.862
+		izx	2775.509
+		izy	22.862
+		izz	16375.772
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	50744.937
+		ixy	-462.971
+		ixz	-27870.912
+		iyx	-462.971
+		iyy	93205.339
+		iyz	-229.572
+		izx	-27870.912
+		izy	-229.572
+		izz	45410.706

@@ -1,0 +1,1225 @@
+Pan Sub-Assembly for Mass, CoM, and MoI Determinination
+Tilt Sub-Assembly is swept through 70 to -240 degrees while the pan servo and bracket are held fixed.
+
+Positive angles are clockwise, negative are counter-clockwise from positive x-axis.
+
+CoM of tilt sub-assembly is over the pan axis at approx. -72 degrees from the positive x-axis.
+
+At 70 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-0.783 mm, -9.691 mm, 10.325 mm
+	Bounding Box-0
+		Length	58 mm
+		Width	64.85 mm
+		Height	74.159 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	66438.5
+		ixy	-594.583
+		ixz	5866.695
+		iyx	-594.583
+		iyy	51905.51
+		iyz	-488.384
+		izx	5866.695
+		izy	-488.384
+		izz	51488.133
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	90020.811
+		ixy	-1487.476
+		ixz	6818.043
+		iyx	-1487.476
+		iyy	64515.563
+		iyz	11279.104
+		izx	6818.043
+		izy	11279.104
+		izz	62604.764
+
+
+At 60 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	0.496 mm, -9.691 mm, 10.935 mm
+	Bounding Box-0
+		Length	62.367 mm
+		Width	64.85 mm
+		Height	70.067 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	61972.878
+		ixy	-271.277
+		ixz	9841.872
+		iyx	-271.277
+		iyy	50216.249
+		iyz	-334.369
+		izx	9841.872
+		izy	-334.369
+		izz	54264.495
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	87079.095
+		ixy	293.996
+		ixz	9204.04
+		iyx	293.996
+		iyy	64306.954
+		iyz	12127.752
+		izx	9204.04
+		izy	12127.752
+		izz	65337.871
+
+
+
+At 50 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	1.65 mm, -9.691 mm, 11.757 mm
+	Bounding Box-0
+		Length	70.584 mm
+		Width	64.85 mm
+		Height	65.544 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	56585.988
+		ixy	20.373
+		ixz	12166.093
+		iyx	20.373
+		iyy	48798.678
+		iyz	-126.553
+		izx	12166.093
+		izy	-126.553
+		izz	58233.814
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	83886.948
+		ixy	1901.039
+		ixz	9884.42
+		iyx	1901.039
+		iyy	65375.437
+		iyz	13272.856
+		izx	9884.42
+		izy	13272.856
+		izz	69598.501
+
+
+
+At 40 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	2.644 mm, -9.691 mm, 12.768 mm
+	Bounding Box-0
+		Length	77.234 mm
+		Width	64.85 mm
+		Height	60.688 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	50956.503
+		ixy	271.505
+		ixz	12594.596
+		iyx	271.505
+		iyy	47695.869
+		iyz	128.75
+		izx	12594.596
+		izy	128.75
+		izz	62760.49
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	81171.485
+		ixy	3284.821
+		ixz	8624.602
+		iyx	3284.821
+		iyy	67688.546
+		iyz	14679.624
+		izx	8624.602
+		izy	14679.624
+		izz	74627.073
+
+
+At 30 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	3.447 mm, -9.691 mm, 13.935 mm
+	Bounding Box-0
+		Length	82.114 mm
+		Width	64.85 mm
+		Height	53.987 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	45798.967
+		ixy	474.489
+		ixz	11126.864
+		iyx	474.489
+		iyy	46941.329
+		iyz	423.784
+		izx	11126.864
+		izy	423.784
+		izz	67163.486
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	79680.498
+		ixy	4403.297
+		ixz	5477.373
+		iyx	4403.297
+		iyy	71176
+		iyz	16305.312
+		izx	5477.373
+		izy	16305.312
+		izz	79605.514
+
+
+At 20 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	4.036 mm, -9.691 mm, 15.225 mm
+	Bounding Box-0
+		Length	85.077 mm
+		Width	64.85 mm
+		Height	45.647 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	41776.533
+		ixy	623.156
+		ixz	8005.127
+		iyx	623.156
+		iyy	46557.986
+		iyz	749.583
+		izx	8005.127
+		izy	749.583
+		izz	70802.576
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	80079.489
+		ixy	5222.484
+		ixz	779.534
+		iyx	5222.484
+		iyy	75731.834
+		iyz	18100.522
+		izx	779.534
+		izy	18100.522
+		izz	83762.356
+
+
+At 10 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	4.391 mm, -9.691 mm, 16.596 mm
+	Bounding Box-0
+		Length	86.032 mm
+		Width	64.85 mm
+		Height	35.919 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	39419.727
+		ixy	712.991
+		ixz	3683.167
+		iyx	712.991
+		iyy	46557.487
+		iyz	1096.248
+		izx	3683.167
+		izy	1096.248
+		izz	73158.883
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	82856.647
+		ixy	5717.491
+		ixz	-4887.425
+		iyx	5717.491
+		iyy	81217.62
+		iyz	20010.71
+		izx	-4887.425
+		izy	20010.71
+		izz	86470.985
+
+
+At 0 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	4.503 mm, -9.691 mm, 18.009 mm
+	Bounding Box-0
+		Length	84.95 mm
+		Width	64.85 mm
+		Height	32.6 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	39061.079
+		ixy	741.264
+		ixz	-1230.765
+		iyx	741.264
+		iyy	46939.847
+		iyz	1453.246
+		izx	-1230.765
+		izy	1453.246
+		izz	73899.891
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	88247.665
+		ixy	5873.277
+		ixz	-10767.909
+		iyx	5873.277
+		iyy	87466.677
+		iyz	21977.835
+		izx	-10767.909
+		izy	21977.835
+		izz	87329.023
+
+
+At -10 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	4.368 mm, -9.691 mm, 19.42 mm
+	Bounding Box-0
+		Length	81.968 mm
+		Width	64.85 mm
+		Height	42.87 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	40793.553
+		ixy	707.114
+		ixz	-6049.951
+		iyx	707.114
+		iyy	47693.448
+		iyz	1809.73
+		izx	-6049.951
+		izy	1809.73
+		izz	72921.018
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	96189.978
+		ixy	5685.108
+		ixz	-16025.549
+		iyx	5685.108
+		iyy	94289.129
+		iyz	23942.127
+		izx	-16025.549
+		izy	23942.127
+		izz	86209.162
+
+
+At -20 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	3.99 mm, -9.691 mm, 20.786 mm
+	Bounding Box-0
+		Length	77.074 mm
+		Width	64.85 mm
+		Height	53.433 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	44457.82
+		ixy	611.581
+		ixz	-10094.895
+		iyx	611.581
+		iyy	48795.393
+		iyz	2154.869
+		izx	-10094.895
+		izy	2154.869
+		izz	70358.696
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	106300
+		ixy	5158.702
+		ixz	-19847.935
+		iyx	5158.702
+		iyy	101500
+		iyz	25843.901
+		izx	-19847.935
+		izy	25843.901
+		izz	83275.241
+
+
+At -30 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	3.38 mm, -9.691 mm, 22.065 mm
+	Bounding Box-0
+		Length	71.923 mm
+		Width	64.85 mm
+		Height	62.967 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	49659.969
+		ixy	457.567
+		ixz	-12778.263
+		iyx	457.567
+		iyy	50212.199
+		iyz	2478.174
+		izx	-12778.263
+		izy	2478.174
+		izz	66573.354
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	118000
+		ixy	4310.054
+		ixz	-21550.029
+		iyx	4310.054
+		iyy	108800
+		iyz	27625.374
+		izx	-21550.029
+		izy	27625.374
+		izz	78961.61
+
+
+At -40 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	2.558 mm, -9.691 mm, 23.219 mm
+	Bounding Box-0
+		Length	66.863 mm
+		Width	64.85 mm
+		Height	71.184 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	55817.556
+		ixy	249.75
+		ixz	-13678.747
+		iyx	249.75
+		iyy	51900.818
+		iyz	2769.824
+		izx	-13678.747
+		izy	2769.824
+		izz	62104.385
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	130300
+		ixy	3164.95
+		ixz	-20663.592
+		iyx	3164.95
+		iyy	116100
+		iyz	29232.416
+		izx	-20663.592
+		izy	29232.416
+		izz	73918.301
+
+
+At -50 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	1.548 mm, -9.691 mm, 24.213 mm
+	Bounding Box-0
+		Length	62.007 mm
+		Width	64.85 mm
+		Height	77.834 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	62228.493
+		ixy	-5.553
+		ixz	-12594.847
+		iyx	-5.553
+		iyy	53809.941
+		iyz	3020.956
+		izx	-12594.847
+		izy	3020.956
+		izz	57602.572
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	142200
+		ixy	1758.182
+		ixz	-17001.65
+		iyx	1758.182
+		iyy	123000
+		iyz	30616.198
+		izx	-17001.65
+		izy	30616.198
+		izz	68928.674
+
+
+At -60 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	0.38 mm, -9.691 mm, 25.017 mm
+	Bounding Box-0
+		Length	58 mm
+		Width	64.85 mm
+		Height	82.714 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	68154.491
+		ixy	-300.586
+		ixz	-9571.998
+		iyx	-300.586
+		iyy	55881.562
+		iyz	3223.94
+		izx	-9571.998
+		izy	3223.94
+		izz	53748.195
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	152800
+		ixy	132.494
+		ixz	-10689.977
+		iyx	132.494
+		iyy	129500
+		iyz	31734.675
+		izx	-10689.977
+		izy	31734.675
+		izz	64809.621
+
+
+
+At -70 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-0.909 mm, -9.691 mm, 25.605 mm
+	Bounding Box-0
+		Length	58 mm
+		Width	64.85 mm
+		Height	85.677 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	72909.048
+		ixy	-626.385
+		ixz	-4899.683
+		iyx	-626.385
+		iyy	58052.734
+		iyz	3372.608
+		izx	-4899.683
+		izy	3372.608
+		izz	51164.81
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	161100
+		ixy	-1662.716
+		ixz	-2161.524
+		iyx	-1662.716
+		iyy	135300
+		iyz	32553.862
+		izx	-2161.524
+		izy	32553.862
+		izz	62306.496
+
+
+At -80 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-2.281 mm, -9.691 mm, 25.96 mm
+	Bounding Box-0
+		Length	58 mm
+		Width	64.85 mm
+		Height	86.632 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	75939.393
+		ixy	-973.051
+		ixz	921.205
+		iyx	-973.051
+		iyy	60257.489
+		iyz	3462.442
+		izx	921.205
+		izy	3462.442
+		izz	50339.219
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	166200
+		ixy	-3572.904
+		ixz	7885.827
+		iyx	-3572.904
+		iyy	140100
+		iyz	33048.869
+		izx	7885.827
+		izy	33048.869
+		izz	61995.667
+
+
+At -90 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-3.694 mm, -9.691 mm, 26.072 mm
+	Bounding Box-0
+		Length	58 mm
+		Width	64.85 mm
+		Height	85.55 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	76892.53
+		ixy	-1330.049
+		ixz	7236.868
+		iyx	-1330.049
+		iyy	62428.835
+		iyz	3490.715
+		izx	7236.868
+		izy	3490.715
+		izz	51557.428
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	167900
+		ixy	-5540.029
+		ixz	18563.386
+		iyx	-5540.029
+		iyy	144000
+		iyz	33204.654
+		izx	18563.386
+		izy	33204.654
+		izz	64206.655
+
+
+At -100 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-5.105 mm, -9.691 mm, 25.937 mm
+	Bounding Box-0
+		Length	62.27 mm
+		Width	64.85 mm
+		Height	82.568 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	75657.432
+		ixy	-1686.533
+		ixz	13317.999
+		iyx	-1686.533
+		iyy	64500.797
+		iyz	3456.565
+		izx	13317.999
+		izy	3456.565
+		izz	54864.488
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	165800
+		ixy	-7504.321
+		ixz	28889.026
+		iyx	-7504.321
+		iyy	146700
+		iyz	33016.486
+		izx	28889.026
+		izy	33016.486
+		izz	68973.518
+
+
+At -110 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+General-0
+	Description	
+	Material Name	(Various)
+Manage-1
+	Item Number	
+	Lifecycle	
+	Revision	
+	State	Working
+	Change Order	
+Component-2
+	Category	null
+	Estimated Cost	null
+	Manufacturer	null
+	Manufacturer Part Number	null
+	Note 1	null
+	Note 2	null
+	Note 3	null
+	Package Type	null
+	Stock Number	null
+	Unit of Measure	null
+	Vendor	null
+Project-3
+	Authority	null
+	Cost Center	null
+	Designer	null
+	Engineer	null
+	Product Line	null
+	Project	null
+Summary-4
+	Author	null
+	Company	null
+	Keywords	null
+	Manager	null
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-6.471 mm, -9.691 mm, 25.559 mm
+	Bounding Box-0
+		Length	72.833 mm
+		Width	64.85 mm
+		Height	77.674 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	72378.317
+		ixy	-2031.671
+		ixz	18446.757
+		iyx	-2031.671
+		iyy	66410.419
+		iyz	3361.032
+		izx	18446.757
+		izy	3361.032
+		izz	60053.226
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	160200
+		ixy	-9406.095
+		ixz	37896.35
+		iyx	-9406.095
+		iyy	148200
+		iyz	32490.08
+		izx	37896.35
+		izy	32490.08
+		izz	76021.605
+
+
+At -120 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-7.75 mm, -9.691 mm, 24.95 mm
+	Bounding Box-0
+		Length	82.367 mm
+		Width	64.85 mm
+		Height	72.523 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	67437.392
+		ixy	-2354.977
+		ixz	22002.879
+		iyx	-2354.977
+		iyy	68099.68
+		iyz	3207.018
+		izx	22002.879
+		izy	3207.018
+		izz	66683.412
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	151700
+		ixy	-11187.568
+		ixz	44742.778
+		iyx	-11187.568
+		iyy	148400
+		iyz	31641.432
+		izx	44742.778
+		izy	31641.432
+		izz	84791.558
+
+
+At -130 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-8.904 mm, -9.691 mm, 24.127 mm
+	Bounding Box-0
+		Length	90.584 mm
+		Width	64.85 mm
+		Height	67.463 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	61409.163
+		ixy	-2646.627
+		ixz	23538.536
+		iyx	-2646.627
+		iyy	69517.251
+		iyz	2999.201
+		izx	23538.536
+		izy	2999.201
+		izz	74129.212
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	140900
+		ixy	-12794.61
+		ixz	48803.762
+		iyx	-12794.61
+		iyy	147300
+		iyz	30496.327
+		izx	48803.762
+		izy	30496.327
+		izz	94497.943
+
+
+At -140 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-9.898 mm, -9.691 mm, 23.117 mm
+	Bounding Box-0
+		Length	97.234 mm
+		Width	64.85 mm
+		Height	62.607 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	54991.789
+		ixy	-2897.759
+		ixz	22832.931
+		iyx	-2897.759
+		iyy	70620.061
+		iyz	2743.898
+		izx	22832.931
+		izy	2743.898
+		izz	81649.395
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	128900
+		ixy	-14178.392
+		ixz	49742.004
+		iyx	-14178.392
+		iyy	145000
+		iyz	29089.559
+		izx	49742.004
+		izy	29089.559
+		izz	104200
+
+
+At -150 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-10.701 mm, -9.691 mm, 21.949 mm
+	Bounding Box-0
+		Length	102.114 mm
+		Width	64.85 mm
+		Height	56.444 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	48923.755
+		ixy	-3100.742
+		ixz	19920.004
+		iyx	-3100.742
+		iyy	71374.6
+		iyz	2448.865
+		izx	19920.004
+		izy	2448.865
+		izz	88471.969
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	116600
+		ixy	-15296.869
+		ixz	47543.503
+		iyx	-15296.869
+		iyy	141500
+		iyz	27463.872
+		izx	47543.503
+		izy	27463.872
+		izz	113000
+
+
+At -160 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-11.29 mm, -9.691 mm, 20.66 mm
+	Bounding Box-0
+		Length	105.077 mm
+		Width	64.85 mm
+		Height	49.161 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	43895.877
+		ixy	-3249.41
+		ixz	15085.896
+		iyx	-3249.41
+		iyy	71757.944
+		iyz	2123.066
+		izx	15085.896
+		izy	2123.066
+		izz	93883.19
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	105100
+		ixy	-16116.056
+		ixz	42516.235
+		iyx	-16116.056
+		iyy	136900
+		iyz	25668.661
+		izx	42516.235
+		izy	25668.661
+		izz	119900
+
+
+At -170 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-11.645 mm, -9.691 mm, 19.288 mm
+	Bounding Box-0
+		Length	106.032 mm
+		Width	64.85 mm
+		Height	40.98 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	40469.232
+		ixy	-3339.245
+		ixz	8836.42
+		iyx	-3339.245
+		iyy	71758.443
+		iyz	1776.4
+		izx	8836.42
+		izy	1776.4
+		izz	97310.335
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	95265.225
+		ixy	-16611.063
+		ixz	35251.698
+		iyx	-16611.063
+		iyy	131500
+		iyz	23758.473
+		izx	35251.698
+		izy	23758.473
+		izz	124300
+
+
+At -180 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-11.757 mm, -9.691 mm, 17.875 mm
+	Bounding Box-0
+		Length	104.95 mm
+		Width	64.85 mm
+		Height	32.15 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	39008.856
+		ixy	-3367.518
+		ixz	1838.393
+		iyx	-3367.518
+		iyy	71376.083
+		iyz	1419.402
+		izx	1838.393
+		izy	1419.402
+		izz	98388.35
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	87630.222
+		ixy	-16766.848
+		ixz	26554.028
+		iyx	-16766.848
+		iyy	125200
+		iyz	21791.349
+		izx	26554.028
+		izy	21791.349
+		izz	125700
+
+
+At -190 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-11.622 mm, -9.691 mm, 16.465 mm
+	Bounding Box-0
+		Length	101.968 mm
+		Width	64.85 mm
+		Height	37.808 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	39641.19
+		ixy	-3333.368
+		ixz	-5158.142
+		iyx	-3333.368
+		iyy	70622.482
+		iyz	1062.918
+		izx	-5158.142
+		izy	1062.918
+		izz	97002.416
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	82565.275
+		ixy	-16578.68
+		ixz	17345.196
+		iyx	-16578.68
+		iyy	118400
+		iyz	19827.057
+		izx	17345.196
+		izy	19827.057
+		izz	123900
+
+
+At -200 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-11.244 mm, -9.691 mm, 15.099 mm
+	Bounding Box-0
+		Length	97.074 mm
+		Width	64.85 mm
+		Height	49.918 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	42240.33
+		ixy	-3237.835
+		ixz	-11407.533
+		iyx	-3237.835
+		iyy	69520.537
+		iyz	717.78
+		izx	-11407.533
+		izy	717.78
+		izz	93301.331
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	80094.467
+		ixy	-16052.274
+		ixz	8557.663
+		iyx	-16052.274
+		iyy	111200
+		iyz	17925.283
+		izx	8557.663
+		izy	17925.283
+		izz	119200
+
+
+At -210 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-10.634 mm, -9.691 mm, 13.819 mm
+	Bounding Box-0
+		Length	91.923 mm
+		Width	64.85 mm
+		Height	60.511 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	46444.728
+		ixy	-3083.82
+		ixz	-16255.464
+		iyx	-3083.82
+		iyy	68103.731
+		iyz	394.474
+		izx	-16255.464
+		izy	394.474
+		izz	87680.126
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	79947.666
+		ixy	-15203.626
+		ixz	1027.333
+		iyx	-15203.626
+		iyy	103900
+		iyz	16143.81
+		izx	1027.333
+		izy	16143.81
+		izz	112000
+
+
+At -220 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-9.812 mm, -9.691 mm, 12.665 mm
+	Bounding Box-0
+		Length	86.863 mm
+		Width	64.85 mm
+		Height	69.265 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	51702.26
+		ixy	-2876.004
+		ixz	-19214.858
+		iyx	-2876.004
+		iyy	66415.112
+		iyz	102.824
+		izx	-19214.858
+		izy	102.824
+		izz	80733.976
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	81610.371
+		ixy	-14058.521
+		ixz	-4600.468
+		iyx	-14058.521
+		iyy	96601.095
+		iyz	14536.768
+		izx	-4600.468
+		izy	14536.768
+		izz	103100
+
+
+At -230 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-8.802 mm, -9.691 mm, 11.671 mm
+	Bounding Box-0
+		Length	82.007 mm
+		Width	64.85 mm
+		Height	75.915 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	57338.182
+		ixy	-2620.701
+		ixz	-20021.656
+		iyx	-2620.701
+		iyy	64505.988
+		iyz	-148.308
+		izx	-20021.656
+		izy	-148.308
+		izz	73188.93
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	84401.938
+		ixy	-12651.753
+		ixz	-7940.834
+		iyx	-12651.753
+		iyy	89635.946
+		iyz	13152.985
+		izx	-7940.834
+		izy	13152.985
+		izz	93344.019
+
+
+At -240 degrees global from horizontal (positive x-axis):
+
+Part Name	Pan Assembly
+Part Number	2025-12-11-22-19-48-192
+Physical-5
+	Mass	117.602 g
+	Volume	52853.329 mm^3
+	Density	0.002 g / mm^3
+	Area	32625.313 mm^2
+	World X,Y,Z	0.00 mm, 0.00 mm, 0.00 mm
+	Center of Mass	-7.634 mm, -9.691 mm, 10.868 mm
+	Bounding Box-0
+		Length	75.844 mm
+		Width	64.85 mm
+		Height	80.258 mm
+	Moment of Inertia at Center of Mass (g mm^2)-1
+		ixx	62637.754
+		ixy	-2325.667
+		ixz	-18663.846
+		iyx	-2325.667
+		iyy	62434.368
+		iyz	-351.291
+		izx	-18663.846
+		izy	-351.291
+		izz	65817.737
+	Moment of Inertia at Origin (g mm^2)-2
+		ixx	87572.262
+		ixy	-11026.066
+		ixz	-8906.777
+		iyx	-11026.066
+		iyy	83178.28
+		iyz	12034.509
+		izx	-8906.777
+		izy	12034.509
+		izz	83716.029
