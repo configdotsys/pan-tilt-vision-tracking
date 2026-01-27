@@ -38,7 +38,7 @@ The document reflects the current engineering model of the system rather than a 
 
 ## Repository Contents
 
-This repository includes and will expand to include supporting engineering materials such as:
+This repository includes supporting engineering materials such as:
 
 * mechanical CAD models and assemblies
 * center-of-mass and moment-of-inertia data
