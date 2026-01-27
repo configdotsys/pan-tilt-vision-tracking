@@ -1,4 +1,4 @@
-# Pan–Tilt Vision Tracking Platform
+# Pan-Tilt Vision Tracking Platform
 
 **Project Status:** IN PROGRESS
 
@@ -42,7 +42,7 @@ This repository includes supporting engineering materials such as:
 
 * mechanical CAD models and assemblies
 * center-of-mass and moment-of-inertia data
-* part- and assembly-level properties derived from CAD
+* part and assembly-level properties derived from CAD
 * supporting figures and diagrams referenced in the engineering record
 
 These artifacts are published as the physical platform and system understanding stabilize.
