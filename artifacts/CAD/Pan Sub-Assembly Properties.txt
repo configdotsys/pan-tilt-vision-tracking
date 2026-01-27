@@ -1,9 +1,18 @@
+Pan Sub-Assembly Mass Properties
+Derived from Fusion 360 CAD
+Units: mm, g, g·mm²
+Coordinate frame: see pan-tilt-vision-tracking.md §4
+
+-----------------------------------------------------------
+
 Pan Sub-Assembly for Mass, CoM, and MoI Determinination
 Tilt Sub-Assembly is swept through 70 to -240 degrees while the pan servo and bracket are held fixed.
 
 Positive angles are clockwise, negative are counter-clockwise from positive x-axis.
 
 CoM of tilt sub-assembly is over the pan axis at approx. -72 degrees from the positive x-axis.
+
+-----------------------------------------------------------
 
 At 70 degrees global from horizontal (positive x-axis):
 
@@ -41,6 +50,7 @@ Physical-5
 		izy	11279.104
 		izz	62604.764
 
+-----------------------------------------------------------
 
 At 60 degrees global from horizontal (positive x-axis):
 
@@ -78,7 +88,7 @@ Physical-5
 		izy	12127.752
 		izz	65337.871
 
-
+-----------------------------------------------------------
 
 At 50 degrees global from horizontal (positive x-axis):
 
@@ -116,7 +126,7 @@ Physical-5
 		izy	13272.856
 		izz	69598.501
 
-
+-----------------------------------------------------------
 
 At 40 degrees global from horizontal (positive x-axis):
 
@@ -154,6 +164,7 @@ Physical-5
 		izy	14679.624
 		izz	74627.073
 
+-----------------------------------------------------------
 
 At 30 degrees global from horizontal (positive x-axis):
 
@@ -191,6 +202,7 @@ Physical-5
 		izy	16305.312
 		izz	79605.514
 
+-----------------------------------------------------------
 
 At 20 degrees global from horizontal (positive x-axis):
 
@@ -228,6 +240,7 @@ Physical-5
 		izy	18100.522
 		izz	83762.356
 
+-----------------------------------------------------------
 
 At 10 degrees global from horizontal (positive x-axis):
 
@@ -265,6 +278,7 @@ Physical-5
 		izy	20010.71
 		izz	86470.985
 
+-----------------------------------------------------------
 
 At 0 degrees global from horizontal (positive x-axis):
 
@@ -302,6 +316,7 @@ Physical-5
 		izy	21977.835
 		izz	87329.023
 
+-----------------------------------------------------------
 
 At -10 degrees global from horizontal (positive x-axis):
 
@@ -339,6 +354,7 @@ Physical-5
 		izy	23942.127
 		izz	86209.162
 
+-----------------------------------------------------------
 
 At -20 degrees global from horizontal (positive x-axis):
 
@@ -376,6 +392,7 @@ Physical-5
 		izy	25843.901
 		izz	83275.241
 
+-----------------------------------------------------------
 
 At -30 degrees global from horizontal (positive x-axis):
 
@@ -413,6 +430,7 @@ Physical-5
 		izy	27625.374
 		izz	78961.61
 
+-----------------------------------------------------------
 
 At -40 degrees global from horizontal (positive x-axis):
 
@@ -450,6 +468,7 @@ Physical-5
 		izy	29232.416
 		izz	73918.301
 
+-----------------------------------------------------------
 
 At -50 degrees global from horizontal (positive x-axis):
 
@@ -487,6 +506,7 @@ Physical-5
 		izy	30616.198
 		izz	68928.674
 
+-----------------------------------------------------------
 
 At -60 degrees global from horizontal (positive x-axis):
 
@@ -524,7 +544,7 @@ Physical-5
 		izy	31734.675
 		izz	64809.621
 
-
+-----------------------------------------------------------
 
 At -70 degrees global from horizontal (positive x-axis):
 
@@ -562,6 +582,7 @@ Physical-5
 		izy	32553.862
 		izz	62306.496
 
+-----------------------------------------------------------
 
 At -80 degrees global from horizontal (positive x-axis):
 
@@ -599,6 +620,7 @@ Physical-5
 		izy	33048.869
 		izz	61995.667
 
+-----------------------------------------------------------
 
 At -90 degrees global from horizontal (positive x-axis):
 
@@ -634,7 +656,9 @@ Physical-5
 		iyz	33204.654
 		izx	18563.386
 		izy	33204.654
-		izz	64206.655
+		izz	64
+
+-----------------------------------------------------------206.655
 
 
 At -100 degrees global from horizontal (positive x-axis):
@@ -673,6 +697,7 @@ Physical-5
 		izy	33016.486
 		izz	68973.518
 
+-----------------------------------------------------------
 
 At -110 degrees global from horizontal (positive x-axis):
 
@@ -743,6 +768,7 @@ Physical-5
 		izy	32490.08
 		izz	76021.605
 
+-----------------------------------------------------------
 
 At -120 degrees global from horizontal (positive x-axis):
 
@@ -780,6 +806,7 @@ Physical-5
 		izy	31641.432
 		izz	84791.558
 
+-----------------------------------------------------------
 
 At -130 degrees global from horizontal (positive x-axis):
 
@@ -817,6 +844,7 @@ Physical-5
 		izy	30496.327
 		izz	94497.943
 
+-----------------------------------------------------------
 
 At -140 degrees global from horizontal (positive x-axis):
 
@@ -854,6 +882,7 @@ Physical-5
 		izy	29089.559
 		izz	104200
 
+-----------------------------------------------------------
 
 At -150 degrees global from horizontal (positive x-axis):
 
@@ -891,6 +920,7 @@ Physical-5
 		izy	27463.872
 		izz	113000
 
+-----------------------------------------------------------
 
 At -160 degrees global from horizontal (positive x-axis):
 
@@ -928,6 +958,7 @@ Physical-5
 		izy	25668.661
 		izz	119900
 
+-----------------------------------------------------------
 
 At -170 degrees global from horizontal (positive x-axis):
 
@@ -965,6 +996,7 @@ Physical-5
 		izy	23758.473
 		izz	124300
 
+-----------------------------------------------------------
 
 At -180 degrees global from horizontal (positive x-axis):
 
@@ -1002,6 +1034,7 @@ Physical-5
 		izy	21791.349
 		izz	125700
 
+-----------------------------------------------------------
 
 At -190 degrees global from horizontal (positive x-axis):
 
@@ -1039,6 +1072,7 @@ Physical-5
 		izy	19827.057
 		izz	123900
 
+-----------------------------------------------------------
 
 At -200 degrees global from horizontal (positive x-axis):
 
@@ -1076,6 +1110,7 @@ Physical-5
 		izy	17925.283
 		izz	119200
 
+-----------------------------------------------------------
 
 At -210 degrees global from horizontal (positive x-axis):
 
@@ -1113,6 +1148,7 @@ Physical-5
 		izy	16143.81
 		izz	112000
 
+-----------------------------------------------------------
 
 At -220 degrees global from horizontal (positive x-axis):
 
@@ -1150,6 +1186,7 @@ Physical-5
 		izy	14536.768
 		izz	103100
 
+-----------------------------------------------------------
 
 At -230 degrees global from horizontal (positive x-axis):
 
@@ -1187,6 +1224,7 @@ Physical-5
 		izy	13152.985
 		izz	93344.019
 
+-----------------------------------------------------------
 
 At -240 degrees global from horizontal (positive x-axis):
 
@@ -1223,3 +1261,5 @@ Physical-5
 		izx	-8906.777
 		izy	12034.509
 		izz	83716.029
+
+-----------------------------------------------------------
