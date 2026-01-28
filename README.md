@@ -8,7 +8,7 @@ The platform is developed as an embedded controls and mechatronics system intend
 
 ---
 
-## Overview
+### Overview
 
 The project implements a layered architecture in which:
 
@@ -20,7 +20,7 @@ Development prioritizes physical integration, system behavior, and architectural
 
 ---
 
-## Engineering Record
+### Engineering Record
 
 `pan-tilt-vision-tracking.md`
 
@@ -36,7 +36,7 @@ The document reflects the current engineering model of the system rather than a 
 
 ---
 
-## Repository Contents
+### Repository Contents
 
 This repository includes supporting engineering materials such as:
 
@@ -49,7 +49,7 @@ These artifacts are published as the physical platform and system understanding 
 
 ---
 
-## Firmware Status
+### Firmware Status
 
 The embedded firmware is undergoing active architectural evolution and refactoring.
 
@@ -57,7 +57,7 @@ To avoid publishing transient structure or misleading implementation details, fi
 
 ---
 
-## Current Status
+### Current Status
 
 The mechanical platform and motion-control foundation are established.
 
