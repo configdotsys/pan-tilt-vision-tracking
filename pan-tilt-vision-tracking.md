@@ -1,4 +1,4 @@
-# Project P1 - Engineering Note (In-Progress Platform)
+# Pan-Tilt Vision Tracking Platform
 
 *Author: Percival Segui*  
 
